@@ -41,5 +41,5 @@ Through these projects, I gained extensive experience in:
 - Version control with Git
 - Documentation and README creation
 
-This internship provided invaluable hands-on experience in applying AI and data analysis techniques to real-world business challenges in the healthcare industry.
+This internship provided invaluable hands-on experience in applying AI, data analysis, and software development techniques to real-world business challenges in the healthcare industry.
 ```
