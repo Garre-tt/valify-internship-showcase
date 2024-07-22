@@ -1,4 +1,3 @@
-```markdown
 # Valify Internship Showcase
 
 Welcome to my Valify internship showcase! This repository highlights the key projects I worked on during my internship, demonstrating my skills in AI-driven data analysis and content generation for the healthcare spend management sector.
@@ -42,4 +41,4 @@ Through these projects, I gained extensive experience in:
 - Documentation and README creation
 
 This internship provided invaluable hands-on experience in applying AI, data analysis, and software development techniques to real-world business challenges in the healthcare industry.
-```
+
